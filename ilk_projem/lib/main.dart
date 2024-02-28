@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  String mesaj = 'Mutlu bayramlar :)';
+  String mesaj='iyi bayramlar';
   runApp(MaterialApp(
       home: Scaffold(
           backgroundColor: Color(0xffD7E0FF),
